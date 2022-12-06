@@ -14,6 +14,6 @@
     <br>
     In the Future, I am aiming to become a successful <b>Full Stack Web Developer</b> or a <b>Software Engineer</b>, wherever the wind takes me i guess. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
     <br>
-    I am hoping to learn many things in the process (specially on my college phase) and continue to grow efficiently as an individual in all aspects of my life, specially on <b>Programming</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">  
+    I am hoping to learn many things in the process (specially in my college phase) and continue to grow efficiently as an individual in all aspects of my life, specially in <b>Programming</b>. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">  
   </em>
 </p>
