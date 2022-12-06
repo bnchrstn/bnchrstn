@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="250" alt="Unicorn" src="https://user-images.githubusercontent.com/101437225/205792244-ab97d139-7cd4-4512-948f-a55c6529214b.gif" />
+  <img height="250" src="https://user-images.githubusercontent.com/101437225/205792244-ab97d139-7cd4-4512-948f-a55c6529214b.gif" />
 </p>
 
 <hr>
