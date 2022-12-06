@@ -3,7 +3,7 @@
 </p>
 
 <hr>
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ben Christian</h1>
+<h1 align="center"><i>Hello there!<img src="https://media.tenor.com/oqXocliEYAMAAAAj/hello-yellow.gif" width="30px"> I am Ben Christian</i></h1>
 <h3 align="center">IT Student | Aspiring Web Developer | Aspiring Software Engineer </h3>
 
 <p align="center">
