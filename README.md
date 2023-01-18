@@ -29,5 +29,7 @@
 
 <h1 align="left">Github Stats: <img src="https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width="40px"></h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnchrstn&layout=compact)](https://github.com/bnchrstn/github-readme-stats)
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bnchrstn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bnchrstn/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bnchrstn&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bnchrstn/github-readme-stats#gh-light-mode-only)
