@@ -29,8 +29,6 @@
 
 <h1 align="left">Github Stats: <img src="https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width="40px"></h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnchrstn&layout=compact)](https://github.com/bnchrstn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnchrstn&layout=compact&theme=react)](https://github.com/bnchrstn/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnchrstn&show_icons=true&locale=en" alt="bnchrstn" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnchrstn&show_icons=true&locale=en&layout=compact" alt="bnchrstn" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnchrstn&show_icons=true&theme=react)
