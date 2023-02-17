@@ -10,7 +10,7 @@
   <em>
     I am a <b>Student</b> from <a href="https://national-u.edu.ph/"> <b>National University - Philippines</b></a>. <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30" height="30"/>
     <br>
-    I am obssessed with Technology ever since and curious about how things work from the back end of everything i see digitally. <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    I am obssessed with Technology ever since and curious about how things work from the back end of everything I see digitally. <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
     <br>
     In the Future, I am aiming to become a successful <b>Full Stack Web Developer</b> or a <b>Software Engineer</b>; wherever the wind takes me. <img src="https://thumbs.gfycat.com/ElectricShoddyGnat.webp" width="25px"> 
     <br>
