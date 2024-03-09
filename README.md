@@ -12,7 +12,7 @@
     <br>
    I have been obsessed with technology ever since and curious about how things work from the back end of everything I see digitally. <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
     <br>
-    In the Future, I am aiming to become a successful <b>Full Stack Web Developer</b> or a <b>Software Engineer</b>; wherever the wind takes me. <img src="https://dribbble.com/shots/3359840-8-bit-flying-money-gif/attachments/9784135?mode=media" width="28px"> 
+    In the Future, I am aiming to become a successful <b>Full Stack Web Developer</b> or a <b>Software Engineer</b>; wherever the wind takes me. <img src="https://tenor.com/9vD8.gif" width="28px"> 
     <br>
     I am hoping to learn many things in the process (specially in my college phase) and continue to grow efficiently as an individual in all aspects of my life, specially in <b>Programming</b>. <img src="https://media1.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif?cid=ecf05e47mrs8ba4at8xe2datdy78z8fhtudf2vbdmpcfk0yh&rid=giphy.gif&ct=s" width="35px">  
   </em>
