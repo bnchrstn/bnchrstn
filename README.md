@@ -20,8 +20,14 @@
 
 <h1 align="left">Connect with me: <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35px"></h1>
 <p align="left">
-<a href="https://instagram.com/bnchrstn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bnchrstn" height="30" width="40" /></a>
+  <a href="https://instagram.com/bnchrstn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bnchrstn" height="30" width="40" />
+  </a>
+  <a href="mailto:benchristianaceveda23@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.freepik.com/512/732/732200.png?uid=R166848012&ga=GA1.1.371638987.1711277194" alt="Email" height="35" width="35" />
+  </a>
 </p>
+
 
 <h1 align="left">Languages and tools i'm currently stu(dying): <img src="https://clasherbros.github.io/images/giphy.gif" width="35px"> </h1>
 <p align="left"> 
