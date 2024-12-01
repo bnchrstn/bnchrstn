@@ -52,7 +52,11 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
 </p>
+
 <br>
 
 <h1 align="left">Github Stats: <img src="https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width="40px"></h1>
